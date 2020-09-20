@@ -17,7 +17,7 @@ package org.automation.test;
 	    @BeforeClass
 	    public void beforeClass() {
 	    
-	    	System.setProperty("webdriver.chrome.driver","D:\\Java\\Continuous_Integration\\chromedriver.exe");
+	    	System.setProperty("webdriver.chrome.driver","C:\\Users\\Anuradha\\ContinuousIntegration\\Continuous_Integration\\Continuous_Integration\\chromedriver.exe");
 	    	 driver= new ChromeDriver();
 	    
 	    }
