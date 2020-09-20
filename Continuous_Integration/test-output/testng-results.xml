@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16922" started-at="2020-09-20T12:50:15Z" finished-at="2020-09-20T12:50:32Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16922" started-at="2020-09-20T12:50:15Z" finished-at="2020-09-20T12:50:32Z">
+      <class name="org.automation.test.NewTest2">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.automation.test.NewTest2@224edc67]" name="beforeClass" is-config="true" duration-ms="3033" started-at="2020-09-20T18:20:21Z" finished-at="2020-09-20T18:20:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="openGoogle()[pri:0, instance:org.automation.test.NewTest2@224edc67]" name="openGoogle" duration-ms="1286" started-at="2020-09-20T18:20:25Z" finished-at="2020-09-20T18:20:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.automation.test.NewTest2@224edc67]" name="afterClass" is-config="true" duration-ms="624" started-at="2020-09-20T18:20:26Z" finished-at="2020-09-20T18:20:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.automation.test.NewTest2 -->
+      <class name="org.automation.test.NewTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.automation.test.NewTest@4c70fda8]" name="beforeClass" is-config="true" duration-ms="4013" started-at="2020-09-20T18:20:15Z" finished-at="2020-09-20T18:20:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="openGoogle()[pri:0, instance:org.automation.test.NewTest@4c70fda8]" name="openGoogle" duration-ms="1446" started-at="2020-09-20T18:20:19Z" finished-at="2020-09-20T18:20:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.automation.test.NewTest@4c70fda8]" name="afterClass" is-config="true" duration-ms="632" started-at="2020-09-20T18:20:21Z" finished-at="2020-09-20T18:20:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.automation.test.NewTest -->
+      <class name="org.automation.test.NewTest3">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.automation.test.NewTest3@14acaea5]" name="beforeClass" is-config="true" duration-ms="3029" started-at="2020-09-20T18:20:26Z" finished-at="2020-09-20T18:20:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="openGoogle()[pri:0, instance:org.automation.test.NewTest3@14acaea5]" name="openGoogle" duration-ms="2202" started-at="2020-09-20T18:20:29Z" finished-at="2020-09-20T18:20:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.automation.test.NewTest3@14acaea5]" name="afterClass" is-config="true" duration-ms="639" started-at="2020-09-20T18:20:32Z" finished-at="2020-09-20T18:20:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.automation.test.NewTest3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
